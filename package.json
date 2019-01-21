@@ -1,0 +1,16 @@
+{
+  "name": "umi-plugin-api-types",
+  "version": "0.0.1-alpha.1",
+  "description": "",
+  "repository": "umijs/umi-plugin-api-types",
+  "author": {
+    "name": "chencheng",
+    "email": "sorrycc@gmail.com"
+  },
+  "main": "",
+  "types": "index",
+  "files": [
+    "index.js"
+  ],
+  "license": "MIT"
+}
